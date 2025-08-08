@@ -1,0 +1,13 @@
+{
+  "name": "your-portfolio-project",
+  "version": "1.0.0",
+  "description": "A professional portfolio to showcase my skills and projects.",
+  "main": "src/scripts/app.js",
+  "scripts": {
+    "start": "echo 'Open public/index.html in your browser'",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Musembi Joseph",
+  "license": "MIT"
+}
